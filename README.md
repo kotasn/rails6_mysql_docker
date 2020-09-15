@@ -1,6 +1,10 @@
 # rails6_mysql_docker
 docker + rails6 + mysql
 
+参考文献：
+https://qiita.com/nsy_13/items/9fbc929f173984c30b5d
+
+
 ## rails new でアプリ作成
 5つのファイルが用意できたら、ターミナルから下記コマンドを実行。
 ```
