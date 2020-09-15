@@ -58,3 +58,8 @@ docker-compose run web rake db:create
 docker-compose up
 ```
 localhost:3000 にアクセスすると例のページが表示
+
+## Gemfile を更新したら
+docker-compose build　し直さなきゃいけない
+参考文献：
+https://qiita.com/curtaincall888/items/aa79d555ff29f4c32b43
